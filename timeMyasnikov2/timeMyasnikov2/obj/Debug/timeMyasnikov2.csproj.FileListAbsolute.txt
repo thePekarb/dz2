@@ -1,0 +1,10 @@
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\obj\Debug\timeMyasnikov2.Form1.resources
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\obj\Debug\timeMyasnikov2.Properties.Resources.resources
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\obj\Debug\timeMyasnikov2.csproj.GenerateResource.cache
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\obj\Debug\timeMyasnikov2.csproj.CoreCompileInputs.cache
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\bin\Debug\timeMyasnikov2.exe.config
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\bin\Debug\timeMyasnikov2.exe
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\bin\Debug\timeMyasnikov2.pdb
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\obj\Debug\timeMyasnikov2.Form2.resources
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\obj\Debug\timeMyasnikov2.exe
+C:\Users\Юзверь\source\repos\timeMyasnikov2\timeMyasnikov2\obj\Debug\timeMyasnikov2.pdb
